@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\bin\Debug\net7.0\EmployeePayTracker.exe
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\bin\Debug\net7.0\EmployeePayTracker.deps.json
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\bin\Debug\net7.0\EmployeePayTracker.runtimeconfig.json
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\bin\Debug\net7.0\EmployeePayTracker.dll
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\bin\Debug\net7.0\EmployeePayTracker.pdb
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.AssemblyInfo.cs
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.dll
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\refint\EmployeePayTracker.dll
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.pdb
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\EmployeePayTracker.genruntimeconfig.cache
+C:\codigos\projetos C#\EmployeePayTracker\EmployeePayTracker\obj\Debug\net7.0\ref\EmployeePayTracker.dll
